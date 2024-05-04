@@ -5,11 +5,12 @@ Phone booking service allows a phone to be booked / returned.
 
 ## Run on local environment
 Requires Java 21 and maven
+
 mvn spring-boot:run
 
 ## Usage
 
-Swagger documentation can be found [here](http://localhost:8080/webjars/swagger-ui/index.htm).
+Swagger documentation can be found [here](http://localhost:8080/webjars/swagger-ui/index.html).
 
 ## Scenario
 
