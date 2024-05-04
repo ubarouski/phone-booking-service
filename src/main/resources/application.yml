@@ -1,0 +1,10 @@
+spring:
+  r2dbc:
+    url: r2dbc:h2:file:///./src/main/kotlin/resources/~;MODE=PostgreSQL
+  sql:
+    init:
+      mode: always
+client.device.url: https://api.query.wurfl.io
+logging:
+  level:
+    root: INFO
